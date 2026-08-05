@@ -25,6 +25,7 @@ A lightweight command-line calculator written in Python. Supports the four basic
 - Continuous operation loop — perform multiple calculations per session
 - Simple, dependency-free implementation using only the Python standard library
 
+
 ## Requirements
 
 - Python 3.6 or higher
